@@ -1,0 +1,9 @@
+name: Library
+version: @version@
+main: me.glaremasters.library.Library
+authors: [blockslayer22]
+description: Save / Load Book Data
+
+commands:
+  library:
+    description: Default help info

@@ -1,1 +1,5 @@
 plugin-prefix: "&b[&7Library&b]"
+
+messages:
+  help: "/library - shows this menu"
+  save: "/library save <name> - saves book"
